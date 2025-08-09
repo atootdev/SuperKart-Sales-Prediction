@@ -1,5 +1,8 @@
 # SuperKart Sales Prediction
 
+[**HuggingFace Space**](https://huggingface.co/spaces/kenichi1286/superkart)
+
+
 ## Introduction
 Sales forecasting is a critical process for businesses as it involves predicting future sales revenue based on historical data, industry trends, and the current sales pipeline. Accurate sales forecasts are essential for improving decision-making, reducing risks, and optimizing operations across various organizational functions. They assist in planning sales operations by region, help the supply chain manage inventory, and establish benchmarks for future growth.
 
